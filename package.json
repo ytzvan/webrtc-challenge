@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-challenge",
+  "version": "1.0.0",
+  "description": "Challenge for WebRTC Ventures",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytzvan/webrtc-challenge.git"
+  },
+  "keywords": [
+    "webrtc",
+    "challenge"
+  ],
+  "author": "Ytzvan Mastino (YM)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ytzvan/webrtc-challenge/issues"
+  },
+  "homepage": "https://github.com/ytzvan/webrtc-challenge#readme"
+}
